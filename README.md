@@ -22,4 +22,4 @@ The project consists of the following files:
 
 - **HTML5** - For the structure and layout of the application.
 - **CSS3** - For styling and making the application visually appealing.
-- **JavaScript** - For interactive features, task management, and local storage functionality.
+- **JavaScript** - For interactive features and task management.
