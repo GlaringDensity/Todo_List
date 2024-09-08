@@ -16,12 +16,10 @@ The project consists of the following files:
 
 - `index.html` - The main HTML file that structures the application.
 - `styles.css` - The CSS file responsible for styling the To-Do List.
-- `script.js` - The JavaScript file that adds functionality like adding, deleting, and marking tasks.
+- `app.js` - The JavaScript file that adds functionality like adding, deleting, and marking tasks.
 
 ## 🛠️ Technologies Used
 
 - **HTML5** - For the structure and layout of the application.
 - **CSS3** - For styling and making the application visually appealing.
 - **JavaScript** - For interactive features, task management, and local storage functionality.
-
-## 📸 Screenshots
